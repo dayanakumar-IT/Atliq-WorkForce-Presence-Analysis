@@ -1,4 +1,5 @@
 # 📊 HR Presence Insights Dashboard – Power BI
+https://github.com/user-attachments/assets/16e175f1-2616-48f0-9123-d96ee83d4232
 
 ## 🚀 Introduction
 This project features an **HR Presence Analytics Dashboard** built using **Power BI** and real-world **Excel dataset** from **Atliq**, a company specializing in **business automation, optimization, and digital marketing**. 
